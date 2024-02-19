@@ -1,0 +1,69 @@
+,API Name,Overview,Link,Description,HTTPS Support,CORS Support,Authentication Type,Pricing
+1,A Bíblia Digital,Do not worry about managing th ...,/api/99/a-bblia-digital,Do not worry about managing the multiple versions of the Bible,Yes,No,apiKey,Unknown
+2,Dólar API Argentina,API desarrollada en EsJS (http ...,/api/1977/dlar-api-argentina,API desarrollada en EsJS (https://esjs.dev) para las diferentes cotizaciones de Dólar en Argentina.,Yes,Yes,No,Open Source
+3,Edamam,Recipe Search,/api/1819/edamam,Recipe Search,Yes,Unknown,apiKey,Unknown
+4,Faroo,Alternative to Google Web Sear ...,/api/1464/faroo,"Alternative to Google Web Search API / Google News Search API, allows you to search news within dates, fetch trending news, topics and terms.",Unknown,Unknown,Unknown,Unknown
+5,Fruityvice,Data about all kinds of fruit,/api/526/fruityvice,Data about all kinds of fruit,Yes,Unknown,No,Unknown
+6,RandomDuck,Random pictures of ducks,/api/20/randomduck,Random pictures of ducks,Yes,No,No,Unknown
+7,PUBG,Access in-game PUBG data,/api/614/pubg,Access in-game PUBG data,Yes,Yes,apiKey,Unknown
+8,Jokes,Programming and general jokes,/api/1822/jokes,Programming and general jokes,Yes,Unknown,No,Unknown
+9,Bhagavad Gita,Bhagavad Gita in various langu ...,/api/1616/bhagavad-gita,Bhagavad Gita in various languages.,Unknown,Unknown,Unknown,Open Source
+10,Songs excerpt,A free API to get a random son ...,/api/1973/songs-excerpt,"A free API to get a random song lyrics excerpt of your selected artists/bands.
+Could be utilized for mobile widgets, personal website widget, notion, github profile, what ever you like.",Yes,No,No,Free
+11,FakerAPI,APIs collection to get fake da ...,/api/1200/fakerapi,APIs collection to get fake data,Yes,Yes,No,Unknown
+12,TheSportsDB,"Various sports events, results ...",/api/1730/thesportsdb,"Various sports events, results, players, teams and high quality artwork.",Unknown,Unknown,Unknown,Unknown
+13,Urban Dictionary,Online dictionary for slang wo ...,/api/1887/urban-dictionary,Online dictionary for slang words and phrases,Yes,No,No,Free
+14,BinaryEdge,Provide access to BinaryEdge 4 ...,/api/1072/binaryedge,Provide access to BinaryEdge 40fy scanning platform,Yes,Yes,apiKey,Unknown
+15,HTTP Cats,Cats for every HTTP response s ...,/api/1892/http-cats,Cats for every HTTP response status code,Yes,Yes,No,Free
+16,Beeceptor,Build a mock Rest API endpoint ...,/api/281/beeceptor,Build a mock Rest API endpoint in seconds,Yes,Yes,No,Unknown
+17,7Timer!,"Weather, especially for Astrow ...",/api/1379/7timer,"Weather, especially for Astroweather",No,Unknown,No,Unknown
+18,Indeed,Job board aggregator,/api/1841/indeed,Job board aggregator,Yes,Unknown,apiKey,Unknown
+19,Atom Finance,Atom Finance provides access t ...,/api/1772/atom-finance,"Atom Finance provides access to real-time market data, earnings reports, financials, and company news.",Yes,Yes,apiKey,Trial
+20,Chess.com,Chess.com read-only REST API,/api/554/chesscom,Chess.com read-only REST API,Yes,Unknown,No,Unknown
+21,Chomp,Data about various grocery pro ...,/api/521/chomp,Data about various grocery products and foods,Yes,Unknown,apiKey,Unknown
+22,AnimeChan,Anime quotes (over 10k+),/api/30/animechan,Anime quotes (over 10k+),Yes,No,No,Unknown
+23,Microsoft Advertising Platform - Bing Ads API,Provides programmatic access t ...,/api/1493/microsoft-advertising-platform-bing-ads-api,Provides programmatic access to various advertising technologies.,Unknown,Unknown,Unknown,Unknown
+24,Mario Kart Tour,"API for Drivers, Karts, Glider ...",/api/599/mario-kart-tour,"API for Drivers, Karts, Gliders and Courses",Yes,Unknown,OAuth,Unknown
+25,ChartLyrics Lyrics API,Allows users to search for lyr ...,/api/1659/chartlyrics-lyrics-api,"Allows users to search for lyrics using the artist name, song title, or lyric text.",Unknown,Unknown,Unknown,Unknown
+26,Phone Specification,Rest Api for Phone specificati ...,/api/1005/phone-specification,Rest Api for Phone specifications,Yes,Yes,No,Unknown
+27,Imgflip,Gets an array of popular memes,/api/451/imgflip,Gets an array of popular memes,Yes,Unknown,No,Unknown
+28,Blue Archive,Blue Archive Game data API Cha ...,/api/1926/blue-archive,Blue Archive Game data API Characters,Yes,Unknown,No,Unknown
+29,Cartola FC,The Cartola FC API serves to c ...,/api/1857/cartola-fc,The Cartola FC API serves to check the partial points of your team,Yes,Unknown,No,Unknown
+30,Fruits API,API GraphQL with information o ...,/api/1918/fruits-api,API GraphQL with information on fruit trees of the world.,Unknown,Unknown,Unknown,Open Source
+31,Lua Decompiler,Online Lua 5.1 Decompiler,/api/342/lua-decompiler,Online Lua 5.1 Decompiler,Yes,Yes,No,Unknown
+32,eBird,Retrieve recent or notable bir ...,/api/8/ebird,Retrieve recent or notable birding observations within a region,Yes,No,apiKey,Unknown
+33,Cats,A public service API all about ...,/api/5/cats,"A public service API all about Cats, free to use when making your fancy new App, Website, or Service. The Cat API has delivered Billions of requests, to over 80K developers.",Yes,No,apiKey,Unknown
+34,Watchmode,API for finding out the stream ...,/api/1376/watchmode,API for finding out the streaming availability of movies & shows,Yes,Unknown,apiKey,Unknown
+35,Jservice,Jeopardy Question Database,/api/596/jservice,Jeopardy Question Database,No,Unknown,No,Unknown
+36,Pokéapi,Pokémon Information,/api/610/pokapi,Pokémon Information,Yes,Unknown,No,Unknown
+37,Tasty,API to query data about recipe ...,/api/536/tasty,"API to query data about recipe, plan, ingredients",Yes,Unknown,apiKey,Unknown
+38,TinyURL,Shorten long URLs,/api/1329/tinyurl,Shorten long URLs,Yes,No,apiKey,Unknown
+39,ThronesApi,Game Of Thrones Characters Dat ...,/api/1368/thronesapi,Game Of Thrones Characters Data with imagery,Yes,Unknown,No,Unknown
+40,keycdn IP Location Finder,Get the IP geolocation data th ...,/api/690/keycdn-ip-location-finder,Get the IP geolocation data through the simple REST API. All the responses are JSON encoded,Yes,Unknown,apiKey,Unknown
+41,Meme,JSON API for a random meme scr ...,/api/1930/meme,JSON API for a random meme scraped from reddit,Yes,Unknown,No,Unknown
+42,Dogs,Based on the Stanford Dogs Dat ...,/api/7/dogs,Based on the Stanford Dogs Dataset,Yes,Yes,No,Unknown
+43,FishWatch,Information and pictures about ...,/api/9/fishwatch,Information and pictures about individual fish species,Yes,Yes,No,Unknown
+44,BINTable: BIN Lookup API,BINtable.com is a web-based BI ...,/api/1952/bintable-bin-lookup-api,"BINtable.com is a web-based BIN Lookup API that allows users to retrieve information about credit, debit, and prepaid cards by simply entering the card's BIN (Bank Identification Number). The service provides detailed information about the issuing bank, the card type, the country of origin, and other relevant details, which can be useful for fraud prevention, risk management, and compliance purposes. BINtable.com offers a user-friendly interface, easy integration with existing systems.",Yes,Yes,apiKey,Free Option
+45,IBANAPI,Validate IBAN number & get ban ...,/api/1441/ibanapi,Validate IBAN number & get bank account from it.,Yes,Yes,apiKey,Trial
+46,Catboy,"Neko images, funny GIFs & more",/api/33/catboy,"Neko images, funny GIFs & more",Yes,Yes,No,Unknown
+47,OMDB,OMDb provides a subscription b ...,/api/1649/omdb,OMDb provides a subscription based web service to obtain information and metadata about movies.,Unknown,Unknown,Unknown,Trial
+48,Dungeons and Dragons,Reference for 5th edition spel ...,/api/567/dungeons-and-dragons,"Reference for 5th edition spells, classes, monsters, and more",No,No,No,Unknown
+49,CountAPI,Free and simple counting servi ...,/api/296/countapi,Free and simple counting service. You can use it to track page hits and specific events,Yes,Yes,No,Unknown
+50,Cat Facts,Daily cat facts,/api/3/cat-facts,Daily cat facts,Yes,No,No,Unknown
+51,AniList,Anime discovery & tracking,/api/29/anilist,Anime discovery & tracking,Yes,Unknown,OAuth,Unknown
+52,Coffee,Random pictures of coffee,/api/522/coffee,Random pictures of coffee,Yes,Unknown,No,Unknown
+53,AniDB,Anime Database,/api/28/anidb,Anime Database,No,Unknown,apiKey,Unknown
+54,World Trading Data,Market data provider,/api/1818/world-trading-data,Market data provider,Yes,Unknown,apiKey,Unknown
+55,PunAPI,Pun API for puns and memes. ,/api/2026/punapi,Pun API for puns and memes.,Yes,Yes,No,Free
+56,Harry Potter HP-API,Harry Potter API,/api/1871/harry-potter-hp-api,Harry Potter API,Yes,Yes,apiKey,Unknown
+57,Pokémon TCG,Pokémon TCG Information,/api/612/pokmon-tcg,Pokémon TCG Information,Yes,Unknown,No,Unknown
+58,Potter DB,Data from the Harry Potter Uni ...,/api/1931/potter-db,"Data from the Harry Potter Universe: Characters, Movies, Books, Spells and Potions",Yes,Unknown,No,Unknown
+59,MyAPI,A template to create awesome A ...,/api/1881/myapi,A template to create awesome APIs easily ⚡️,Yes,Yes,JWT,Free Option
+60,Allkeyshop,The most complete price compar ...,/api/1888/allkeyshop,The most complete price comparison site for video games,Yes,No,No,Free
+61,Recipe Puppy,Food,/api/1821/recipe-puppy,Food,No,Unknown,No,Unknown
+62,People Generator API ,People generation API aimed at ...,/api/1958/people-generator-api,"People generation API aimed at generating small to large amounts of realistic fake user data, primarily aimed for testing purposes.",Yes,No,No,Open Source
+63,Abstract Email Validation,Validate email addresses for d ...,/api/430/abstract-email-validation,Validate email addresses for deliverability and spam,Yes,Yes,apiKey,Unknown
+64,Google Barcode,The Barcode API detects barcod ...,/api/1741/google-barcode,"The Barcode API detects barcodes in real-time, on device, in any orientation. It can also detect multiple barcodes at once.",Unknown,Unknown,Unknown,Unknown
+65,Breaking Bad,"Gives quotes from ""Breaking Ba ...",/api/1900/breaking-bad,"Gives quotes from ""Breaking Bad"".",Unknown,Unknown,Unknown,Open Source
+66,EAN-Search,The EAN-Search API allows you ...,/api/1742/ean-search,"The EAN-Search API allows you to lookup products by EAN, UPC or GTIN barcode.",Unknown,Unknown,Unknown,Trial
+67,AdoptAPet,Resource to help get pets adop ...,/api/1/adoptapet,Resource to help get pets adopted,Yes,Yes,apiKey,Unknown
